@@ -1,0 +1,689 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vcircuit
+Z1 I5XSaW0JFh=CFJ^mH`C@9_0
+Z2 VkjRB`W=ETTi9WBK8LcD=k1
+Z3 dC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab
+Z4 w1542980180
+Z5 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v
+Z6 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 !s100 R=@BXJZ6][P2zId_WLJ_]2
+Z10 !s108 1542983362.540000
+Z11 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v|
+Z12 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcircuit_test
+Z13 I55OZ6c[2AGkkjE[c49hj>1
+Z14 VnR<KWCd0m80n2k<=kPZ823
+R3
+Z15 w1542980181
+Z16 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v
+Z17 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v
+L0 3
+R7
+r1
+31
+R8
+Z18 !s100 YkmM3;9PUJlzg?;4:?Uk41
+Z19 !s108 1542983362.950000
+Z20 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v|
+Z21 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcomparator2bit
+Z22 I2KC9oFQBiB2l;P`HZQbi=3
+Z23 VOZ@J<l[egQe22;B5`7aEm3
+R3
+Z24 w1542980436
+Z25 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v
+Z26 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v
+L0 5
+R7
+r1
+31
+R8
+Z27 !s100 `_7>=VeEc_K>c3_M]9V3O2
+Z28 !s108 1542983363.230000
+Z29 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vd_flip_flop
+Z31 I`AZSBM99>dd3=59D?NoT;1
+Z32 VJ@AzLaC``Oio`>d6QVLfT2
+R3
+Z33 w1542980480
+Z34 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v
+Z35 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v
+L0 1
+R7
+r1
+31
+R8
+Z36 !s100 fiKacLMZ89Q4EchZHE_j52
+Z37 !s108 1542983363.509000
+Z38 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdec_to_bin_encoder
+Z40 Idak:iCY1A54iNNUF[S32@2
+Z41 VB07HK8kSR9ff=ECne^ob72
+R3
+Z42 w1542980080
+Z43 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v
+Z44 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v
+L0 1
+R7
+r1
+31
+R8
+Z45 !s100 :k>6KzVn;Y>X=1FgL;m=03
+Z46 !s108 1542983363.789000
+Z47 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v|
+Z48 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdec_to_bin_encoder_tb
+Z49 IJ2P8KcD_o<f9JP64E34V91
+Z50 VBhIZKB1lMzfoBbg66Zo4d1
+R3
+R42
+Z51 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v
+Z52 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z53 !s100 LXoFbeLoDN@6K;hfHG27U0
+Z54 !s108 1542983364.069000
+Z55 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v|
+Z56 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecimal_to_priority_encoder
+Z57 IIci8jiU_@14a:a^YWoKUG1
+Z58 VCeGoJb;>RYYX3U7NzX8Rm0
+R3
+Z59 w1542980096
+Z60 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v
+Z61 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v
+L0 1
+R7
+r1
+31
+R8
+Z62 !s100 =?27m7BXVbFR3Kh=k7OB]1
+Z63 !s108 1542983364.399000
+Z64 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v|
+Z65 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdecimal_to_priority_encoder_tb
+Z66 IPF[SnCa[hJ?Ma5>?a2Rmk2
+Z67 V<0gi<ENUG:CD=@AzaVOVK1
+R3
+Z68 w1542980095
+Z69 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v
+Z70 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z71 !s100 6Xci261g[TKNdJ:P7zdek3
+Z72 !s108 1542983364.719000
+Z73 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v|
+Z74 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux18_behavioural
+Z75 IETo;TaLeNOSoQ9UnH=c]m0
+Z76 V3f:VY3A0[JfHSJ4[=][`m3
+R3
+Z77 w1542979704
+Z78 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural.v
+Z79 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural.v
+L0 1
+R7
+r1
+31
+R8
+Z80 !s100 5C4::fAfX3`<bBYeJBL7G1
+Z81 !s108 1542983365.119000
+Z82 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural.v|
+Z83 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux18_behavioural_tb
+Z84 IbT_IaXhYAW]2DITjc0@B13
+Z85 VKleAJ83GLf>VUHBV^2C?Y1
+R3
+R77
+Z86 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v
+Z87 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z88 !s100 mZ5`0`?MXGJAU7:hU9olF3
+Z89 !s108 1542983365.499000
+Z90 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v|
+Z91 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux18_dataflow
+Z92 I8a89Jif8_PU93AW0C?ccf3
+Z93 VOg:E<Fk_o`1dKazAeNRhj3
+R3
+Z94 w1542979707
+Z95 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow.v
+Z96 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow.v
+L0 1
+R7
+r1
+31
+R8
+Z97 !s100 >AD?CjgHB5KJO9c5d<Wez0
+Z98 !s108 1542983365.719000
+Z99 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow.v|
+Z100 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdemux18_dataflow_tb
+Z101 I;<:39Tz_ga=LQOZh^1coR3
+Z102 Vmc3VY?H>CRO_JEk5CjWV91
+R3
+Z103 w1542979703
+Z104 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v
+Z105 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z106 !s100 fm0T7S_QNgdFeWaGY[VzD3
+Z107 !s108 1542983365.935000
+Z108 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v|
+Z109 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfa
+Z110 I[N]oK04DTgj0LQ=niJDdn3
+Z111 Va38lzYjbA@eg4Y@oSBDK<3
+R3
+Z112 w1536210377
+Z113 8C:/Users/Frex/Desktop/cpe412lab/fa.v
+Z114 FC:/Users/Frex/Desktop/cpe412lab/fa.v
+L0 1
+R7
+r1
+31
+R8
+Z115 !s100 WlMf0jlkP16Lb0b6_gMHz0
+Z116 !s108 1542980956.066000
+Z117 !s107 C:/Users/Frex/Desktop/cpe412lab/fa.v|
+Z118 !s90 -reportprogress|300|-work|work|C:/Users/Frex/Desktop/cpe412lab/fa.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfa_4b
+Z119 IZb^YI1Io0NMeDS;:zL6gW1
+Z120 V=zX;LMKCh:_R@Lonh4Vd13
+R3
+Z121 w1537602917
+Z122 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_4b.v
+Z123 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_4b.v
+L0 1
+R7
+r1
+31
+R8
+Z124 !s100 Z0>1bmdmI`1Pga1j?RkUi0
+Z125 !s108 1542983366.165000
+Z126 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_4b.v|
+Z127 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_4b.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfa_tst_
+Z128 IZ42<TZWE<f3iUVS>R`WZ82
+Z129 VGhcXe_NF33bjO>A_IBmFf1
+R3
+Z130 w1537603568
+Z131 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v
+Z132 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v
+L0 1
+R7
+r1
+31
+R8
+Z133 !s100 <[D4U<bi:QZz;C;j^;Y5z1
+Z134 !s108 1542983366.704000
+Z135 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v|
+Z136 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgated_d_latch
+Z137 IjhUi>nCUTR35RjbNTFdg]2
+Z138 V9]blEcHUD1m<V6B4JeKTR0
+R3
+Z139 w1542980116
+Z140 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch.v
+Z141 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch.v
+L0 2
+R7
+r1
+31
+R8
+Z142 !s100 N?ddW3e0@aBV97K@7L]RH3
+Z143 !s108 1542983366.934000
+Z144 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch.v|
+Z145 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vgated_d_latch_tb
+Z146 I?mD8gJ[d8UG1gAZR6nGda2
+Z147 V^>kOgF=L]YgA4`No6@m6a2
+R3
+Z148 w1542980115
+Z149 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v
+Z150 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z151 !s100 ljkbK`P42YoTN8KzPBRQm2
+Z152 !s108 1542983367.164000
+Z153 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v|
+Z154 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vjkff
+Z155 IEICHj6d7e1XB=B3iQ1f4n2
+Z156 VhoNCGG_zod]39Y5=i5=aX3
+R3
+Z157 w1542980479
+Z158 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v
+Z159 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v
+L0 1
+R7
+r1
+31
+R8
+Z160 !s100 lV@;aQPDCVFnl0VDd:5jZ0
+Z161 !s108 1542983367.564000
+Z162 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v|
+Z163 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vjkff_tb
+Z164 IL[kFPgoKQRi`L]YebmXa`2
+Z165 Vom3X0fKY6gUXk7=K>JnbB1
+R3
+Z166 w1542980478
+Z167 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v
+Z168 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z169 !s100 `F8W_n;]3]@6fXdikR2?03
+Z170 !s108 1542983367.994000
+Z171 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v|
+Z172 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmagcomp2
+Z173 IcSlVn4ZAMnm630FgzOXGh0
+Z174 VVbAV5L3VgkK8C7614oS?d1
+R3
+Z175 w1542980146
+Z176 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2.v
+Z177 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2.v
+L0 1
+R7
+r1
+31
+R8
+Z178 !s100 g;ES5:hOZ]OgYP6HbeHCg3
+Z179 !s108 1542983368.294000
+Z180 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2.v|
+Z181 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmagcomp2_tb
+Z182 Ii;5o;NF[Z0l9BUXA`OKg:1
+Z183 Vn[7c3T__<77>]JooIYFYh1
+R3
+R175
+Z184 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2_tb.v
+Z185 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z186 !s100 n?U@fRELKU[W9m4f03@dL1
+Z187 !s108 1542983368.594000
+Z188 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2_tb.v|
+Z189 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/magcomp2_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmaster_slave_d_flip_flop
+Z190 IDY:IRGcoLBNC0V?g4FL_@3
+Z191 VRZO53AmIDb66iW@N:kIAM0
+R3
+R166
+Z192 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop.v
+Z193 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop.v
+L0 1
+R7
+r1
+31
+R8
+Z194 !s100 i63@6_fUKBWOBRS4<=GmN2
+Z195 !s108 1542983369.274000
+Z196 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop.v|
+Z197 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmaster_slave_d_flip_flop_tb
+Z198 I@aMC?6`K5lf]>=]A2DlSb2
+Z199 VHOQX7FcNKac]5_G5HgczE1
+R3
+Z200 w1542980481
+Z201 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v
+Z202 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v
+L0 2
+R7
+r1
+31
+R8
+Z203 !s100 n;VMG:Ue^n[a8fMek523E0
+Z204 !s108 1542983369.706000
+Z205 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v|
+Z206 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21
+Z207 I9JjK`MhC2M[LId<MGH3PG0
+Z208 VhjMgdlhEj4m8lBPkzU4M93
+R3
+Z209 w1538627507
+Z210 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21.v
+Z211 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21.v
+L0 1
+R7
+r1
+31
+R8
+Z212 !s100 1WK:[2<FCT?3W4WgRVKU03
+Z213 !s108 1542983369.986000
+Z214 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21.v|
+Z215 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux21_tb
+Z216 ID8aQ3H2NGGGM`c82DLZVW2
+Z217 VR7D=Uj9kgk<@cdBIF:>9:0
+R3
+Z218 w1542980045
+Z219 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v
+Z220 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z221 !s100 E71=dAUdJl_3POXLPQ:1F2
+Z222 !s108 1542983370.626000
+Z223 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v|
+Z224 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux41_case
+Z225 I541nfC4e5G9N:N`e<g:CD1
+Z226 V6`odPbJKO]Zj??BoJ3[=J2
+R3
+Z227 w1540048571
+Z228 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v
+Z229 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v
+L0 1
+R7
+r1
+31
+R8
+Z230 !s100 >`[RD_<VK;ibiY^4fA;]`3
+Z231 !s108 1542983370.976000
+Z232 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v|
+Z233 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux41structural
+Z234 II2He2K6CGV7@;7`l<_=4S3
+Z235 VLb_QfPoGc3e19MH]b<l__3
+R3
+Z236 w1542980041
+Z237 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v
+Z238 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v
+L0 1
+R7
+r1
+31
+R8
+Z239 !s100 5Hl@@DEPUXX:VWVQK4fJW2
+Z240 !s108 1542983371.315000
+Z241 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v|
+Z242 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux41structural_tb
+Z243 ILgjMVMC]DNkZNESUogj1_2
+Z244 Voo:7Wbo@5@X5DmW[n=n]z2
+R3
+Z245 w1542980040
+Z246 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v
+Z247 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z248 !s100 QXN;2CLcmPe4LR`=gV?NN1
+Z249 !s108 1542983371.731000
+Z250 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v|
+Z251 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux81dataflow
+Z252 IZdS>7C:=_oO7eLEEdbDPd0
+Z253 V>Q8bZYmB953^mGa4WJzAi0
+R3
+R236
+Z254 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow.v
+Z255 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow.v
+L0 1
+R7
+r1
+31
+R8
+Z256 !s100 e1Z3B_N<fa9LfWA_V;JE<3
+Z257 !s108 1542983372.121000
+Z258 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow.v|
+Z259 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux81dataflow_tb
+Z260 IFnO?^RVOBROTIk44>5AlY1
+Z261 VSbf]gGHNY6k]@<S5[k]8^0
+R3
+Z262 w1542980044
+Z263 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v
+Z264 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z265 !s100 NXzk<14Y^T?[7j:<DX5PK1
+Z266 !s108 1542983372.441000
+Z267 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v|
+Z268 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux81structural
+Z269 I?60O61>=BFjGX2;;lhhHG0
+Z270 V90YRk[0J9`;M^]900z28R3
+R3
+R218
+Z271 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v
+Z272 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v
+L0 1
+R7
+r1
+31
+R8
+Z273 !s100 ?`CdAC2ZndeZ7`0=iH8XD3
+Z274 !s108 1542983372.704000
+Z275 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v|
+Z276 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux81structural_tb
+Z277 IlYDZUKjWfD<dX<zZhL2352
+Z278 VjCWiV@]0oHfjUMiIXST:A2
+R3
+R218
+Z279 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v
+Z280 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z281 !s100 `JQFPP:VQ0:14F^SOTHCd0
+Z282 !s108 1542983372.994000
+Z283 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v|
+Z284 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsamp_vec
+!i10b 1
+Z285 !s100 >;:U1COnhlFHc<BCXT=Xh0
+Z286 ImNk0a87ElQfzUj2VED6Y00
+Z287 VMOTA;>i?MH=8z[?gK8bGZ3
+R3
+Z288 w1542983521
+Z289 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v
+Z290 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1542983534.134000
+!s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v|
+Z291 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v|
+!s101 -O0
+R8
+vsample
+Z292 I80[FkoMhEO6EZ]ccCl[K<3
+Z293 VC44QNzhN>?FVKEoB6eUn23
+R3
+Z294 w1542980434
+Z295 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v
+Z296 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v
+L0 1
+R7
+r1
+31
+R8
+Z297 !s100 ff3@B99eQfMYfg6;Oa2=n1
+Z298 !s108 1542983373.634000
+Z299 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v|
+Z300 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsample_tb
+Z301 IQcYWdg_UeLMS1B03i?j;V3
+Z302 Ve`Vg;XKbBNJgnmm7<>FQ53
+R3
+Z303 w1542980433
+Z304 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v
+Z305 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z306 !s100 04VD<J>MS^1kezBOi5Lg81
+Z307 !s108 1542983374.014000
+Z308 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v|
+Z309 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstimulus
+Z310 I0JF^[Jj@9dk?U@g6?i_GB1
+Z311 Vj_kQ[Pef^WSz:;eABMRPQ3
+R3
+Z312 w1542980435
+Z313 8C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v
+Z314 FC:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v
+L0 2
+R7
+r1
+31
+R8
+Z315 !s100 DjWezm<@aBdLT7YK07M9H3
+Z316 !s108 1542983374.294000
+Z317 !s107 C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v|
+Z318 !s90 -reportprogress|300|-work|work|C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v|
+!i10b 1
+!s85 0
+!s101 -O0

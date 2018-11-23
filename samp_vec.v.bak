@@ -1,0 +1,8 @@
+module samp_vec(o,a);
+  input [3:0]a;
+  output o;
+  wire o1,o2;
+  and (o1,a[0],a[1]);
+  and (o2,a[3],a[4]);
+  nor(o,o1,o2);  
+endmodule
