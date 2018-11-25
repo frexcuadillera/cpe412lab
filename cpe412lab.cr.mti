@@ -19,6 +19,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	gated_d_latch
 
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/clkGen.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/clkGen.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clkGen
+
+Top level modules:
+	clkGen
+
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module mux81structural
@@ -61,6 +68,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	demux18_behavioural
 
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shiftTest.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shiftTest.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shiftTest
+
+Top level modules:
+	shiftTest
+
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/samp_vec.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module samp_vec
@@ -75,26 +89,19 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	magcomp2
 
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shift1.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shift1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift1
+
+Top level modules:
+	shift1
+
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module sample_tb
 
 Top level modules:
 	sample_tb
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module fa_tst_
-
-Top level modules:
-	fa_tst_
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module gated_d_latch_tb
-
-Top level modules:
-	gated_d_latch_tb
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/master_slave_d_flip_flop_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -103,12 +110,19 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	master_slave_d_flip_flop_tb
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/gated_d_latch_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module decimal_to_priority_encoder
+-- Compiling module gated_d_latch_tb
 
 Top level modules:
-	decimal_to_priority_encoder
+	gated_d_latch_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/fa_tst_.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module fa_tst_
+
+Top level modules:
+	fa_tst_
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -117,33 +131,19 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	jkff
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module demux18_behavioural_tb
+-- Compiling module decimal_to_priority_encoder
 
 Top level modules:
-	demux18_behavioural_tb
+	decimal_to_priority_encoder
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shift4.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/shift4.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module demux18_dataflow_tb
+-- Compiling module shift4
 
 Top level modules:
-	demux18_dataflow_tb
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mux21_tb
-
-Top level modules:
-	mux21_tb
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mux81dataflow_tb
-
-Top level modules:
-	mux81dataflow_tb
+	shift4
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/sample.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -152,6 +152,34 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	sample
 
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81dataflow_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux81dataflow_tb
+
+Top level modules:
+	mux81dataflow_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux21_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux21_tb
+
+Top level modules:
+	mux21_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_dataflow_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demux18_dataflow_tb
+
+Top level modules:
+	demux18_dataflow_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/demux18_behavioural_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demux18_behavioural_tb
+
+Top level modules:
+	demux18_behavioural_tb
+
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module circuit
@@ -159,12 +187,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	circuit
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/latch.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/latch.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module dec_to_bin_encoder
+-- Compiling module latch
 
 Top level modules:
-	dec_to_bin_encoder
+	latch
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -173,26 +201,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux41structural_tb
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module d_flip_flop
+-- Compiling module dec_to_bin_encoder
 
 Top level modules:
-	d_flip_flop
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module decimal_to_priority_encoder_tb
-
-Top level modules:
-	decimal_to_priority_encoder_tb
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module jkff_tb
-
-Top level modules:
-	jkff_tb
+	dec_to_bin_encoder
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/stimulus.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -201,19 +215,40 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	stimulus
 
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/jkff_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module jkff_tb
+
+Top level modules:
+	jkff_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/decimal_to_priority_encoder_tb.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module decimal_to_priority_encoder_tb
+
+Top level modules:
+	decimal_to_priority_encoder_tb
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/d_flip_flop.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module d_flip_flop
+
+Top level modules:
+	d_flip_flop
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/test.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41structural.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module mux41structural
 
 Top level modules:
 	mux41structural
-
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v}
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module comparator2bit
-
-Top level modules:
-	comparator2bit
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux81structural_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -222,12 +257,19 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	mux81structural_tb
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/comparator2bit.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module circuit_test
+-- Compiling module comparator2bit
 
 Top level modules:
-	circuit_test
+	comparator2bit
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux41_case
+
+Top level modules:
+	mux41_case
 
 } {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/dec_to_bin_encoder_tb.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -236,11 +278,11 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	dec_to_bin_encoder_tb
 
-} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/mux41_case.v}
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v} {1 {vlog -work work {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/circuit_test.v}
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module mux41_case
+-- Compiling module circuit_test
 
 Top level modules:
-	mux41_case
+	circuit_test
 
 } {} {}}
