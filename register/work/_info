@@ -1,0 +1,121 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vclkGen
+!i10b 1
+!s100 T9NfT]@Pba9=K>KgT`BgK1
+IZe[KI[R;iY3[d]oRSP6:92
+Z1 Vj]g7jj;e[fJH<V7fhZjH`2
+Z2 dC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register
+w1543388468
+Z3 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\clkGen.v
+Z4 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\clkGen.v
+L0 1
+Z5 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1543388616.162000
+!s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\clkGen.v|
+Z6 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\clkGen.v|
+!s101 -O0
+Z7 o-work work -O0
+Z8 nclk@gen
+vlatch
+Z9 !s100 D`>dibaZiVMIgo@@zCYZz0
+Z10 IWZDmkgEbZ[HUl^HoRaEV83
+Z11 V6FJ<aJaPSFMn`<1LJm34P2
+R2
+Z12 w1543388451
+Z13 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\latch.v
+Z14 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\latch.v
+L0 1
+R5
+r1
+31
+Z15 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\latch.v|
+R7
+Z16 !s108 1543388615.492000
+Z17 !s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\latch.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift1
+Z18 !s100 K?=^6^]Gdbi5CNQUY>O[E2
+Z19 Ija7QBMa:@anXBE[Q;PEQf2
+Z20 V@=XX>UI[z`3VkDoVFN?P53
+R2
+Z21 w1543388035
+Z22 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift1.v
+Z23 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift1.v
+L0 1
+R5
+r1
+31
+Z24 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift1.v|
+R7
+Z25 !s108 1543388615.262000
+Z26 !s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift4
+Z27 !s100 6O3]>`fUHY;<W`8@ML<4o3
+Z28 Icih9Yd?mIEXbYF9>2JmBT0
+Z29 VAo1`bC7A[6oHzjefbgUL81
+R2
+Z30 w1543387924
+Z31 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift4.v
+Z32 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift4.v
+L0 1
+R5
+r1
+31
+Z33 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift4.v|
+R7
+Z34 !s108 1543388615.692000
+Z35 !s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift4.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshiftTest
+Z36 IFl2Ll=]SKiXh^UEi3cmoB0
+Z37 V35oa;aKBgBWdzWlecV^F`3
+R2
+Z38 w1543388608
+Z39 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shiftTest.v
+Z40 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shiftTest.v
+L0 1
+R5
+r1
+31
+Z41 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shiftTest.v|
+R7
+Z42 nshift@test
+!i10b 1
+Z43 !s100 30eZKN]d0:1gQ@h2eeijO2
+!s85 0
+Z44 !s108 1543388615.912000
+Z45 !s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shiftTest.v|
+!s101 -O0
+vtest
+Z46 IAUb7M_:8C:TBW7i2eFiQ20
+Z47 Vk<3<[f=78GX=_HO53D;7>3
+R2
+Z48 w1543387646
+Z49 8C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\test.v
+Z50 FC:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\test.v
+L0 1
+R5
+r1
+31
+Z51 !s90 -reportprogress|300|-work|work|C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\test.v|
+R7
+Z52 !s100 CbRXOHYB`b4@eagLa>m^02
+Z53 !s108 1543388615.002000
+Z54 !s107 C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\test.v|
+!i10b 1
+!s85 0
+!s101 -O0

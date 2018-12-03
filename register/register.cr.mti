@@ -1,0 +1,43 @@
+{C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/shift1.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift1
+
+Top level modules:
+	shift1
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/clkGen.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\clkGen.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clkGen
+
+Top level modules:
+	clkGen
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/latch.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\latch.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module latch
+
+Top level modules:
+	latch
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/test.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\test.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/shiftTest.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shiftTest.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shiftTest
+
+Top level modules:
+	shiftTest
+
+} {} {}} {C:/++++++/Academics (do not delete)/4th Year/Advanced Logic Circuit/cpe412lab/register/shift4.v} {1 {vlog -work work {C:\++++++\Academics (do not delete)\4th Year\Advanced Logic Circuit\cpe412lab\register\shift4.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module shift4
+
+Top level modules:
+	shift4
+
+} {} {}}
